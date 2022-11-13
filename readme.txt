@@ -1,1 +1,1 @@
-Tela de cadastro de estações. Tela responsiva feita com base em CSS GRID.
+Tela Responsiva de cadastro de estações (form). CSS GRID.
